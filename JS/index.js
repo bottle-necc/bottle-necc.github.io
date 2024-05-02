@@ -1,1 +1,0 @@
-window.location.replace("https://bottle-necc.github.io/HTML/home.html");
