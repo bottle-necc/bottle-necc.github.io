@@ -1,1 +1,1 @@
-window.location.replace("https://bottle-necc.github.io/main.html");
+window.location.replace("https://bottle-necc.github.io/HTML/main.html");
